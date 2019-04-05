@@ -16,7 +16,7 @@
 
 ## Check Row and Column
 
-![](./Photos/0_Check_Row_Col.gif)
+![CheckRowCol](./Photos/0_Check_Row_Col.gif)
 
 ## User Plays
 
@@ -30,15 +30,14 @@
 
 ![](./Photos/1_User_Plays.gif)
 
-## User Plays With Computer Choice
+## User Plays With Computer Choice
+![ComputerChoice](./Photos/3_User_Plays_Computer_Choice_Ran.gif)
 
-![](./Photos/3_User_Plays_Computer_Choice_Ran.gif)
+## User Catched by Monster
 
-## User Catched by Monster
+![Monster](./Photos/2_User_Catched_by_Monster.gif)
 
-![](./Photos/2_User_Catched_by_Monster.gif)
-
-## Computer Finds Path Automatically
+## Computer Finds Path Automatically
 
 Computer gets random direction either 's' or 'd' which means 'down' or 'right' respectively. Because the starting point is (0,0) and final point is (9,9).
 
@@ -47,6 +46,6 @@ Since there can be dead ends in the maze, computer should figure out those point
 
 ![](./Photos/4_Computer_Finds_Path_Automatically.gif)
 
-## Example Text File
+## Example Text File
 
 ![Example Text File](./Photos/example_text_file.png)
